@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Oleh 👋
 
-<!--
-**kolodyr/kolodyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Prompt Engineer** from Ukraine 🇺🇦
 
-Here are some ideas to get you started:
+Currently learning how to build AI-powered tools and craft effective prompts for large language models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I'm working on
+
+- Learning Python for automation and AI applications
+- Building personal finance tools
+- Exploring prompt engineering techniques
+
+## 🛠️ Tech & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📫 Connect
+
+- LinkedIn: [Oleh Kudybyn](https://www.linkedin.com/in/oleh-kudybyn/)
+
+---
+
+*Building skills for the AI era* ⚡
